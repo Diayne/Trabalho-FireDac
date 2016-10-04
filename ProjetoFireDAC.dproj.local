@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/09/28 20:31:25.000.230,=C:\Users\DIAYNE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/09/28 20:31:58.000.257,C:\Users\DIAYNE\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Aulas SIS 04\LPL2\Aula 09 FireDAC\FareDAC.pas</Transaction>
+    <Transaction>2016/09/28 20:31:58.000.257,C:\Users\DIAYNE\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Aulas SIS 04\LPL2\Aula 09 FireDAC\FareDAC.dfm</Transaction>
+    <Transaction>2016/09/28 20:32:43.000.196,=C:\Users\DIAYNE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/09/28 20:40:16.000.136,C:\Users\DIAYNE\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Aulas SIS 04\LPL2\Aula 09 FireDAC\FareDAC01.dfm</Transaction>
+    <Transaction>2016/09/28 20:40:16.000.136,C:\Users\DIAYNE\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Aulas SIS 04\LPL2\Aula 09 FireDAC\FareDAC01.pas</Transaction>
+    <Transaction>2016/09/28 21:18:07.000.011,=C:\Users\DIAYNE\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2016/09/28 21:18:47.000.734,C:\Users\DIAYNE\Documents\Embarcadero\Studio\Projects\Unit2.pas=D:\Aulas SIS 04\LPL2\Aula 09 FireDAC\FrmProprietario.pas</Transaction>
+    <Transaction>2016/09/28 21:18:47.000.734,C:\Users\DIAYNE\Documents\Embarcadero\Studio\Projects\Unit2.dfm=D:\Aulas SIS 04\LPL2\Aula 09 FireDAC\FrmProprietario.dfm</Transaction>
+    <Transaction>2016/09/28 21:30:48.000.987,D:\Aulas SIS 04\LPL2\Aula 09 FireDAC\FareDAC.pas=D:\Aulas SIS 04\LPL2\Aula 09 FireDAC\FrmPrincipal.pas</Transaction>
+    <Transaction>2016/09/28 21:30:48.000.987,D:\Aulas SIS 04\LPL2\Aula 09 FireDAC\FareDAC.dfm=D:\Aulas SIS 04\LPL2\Aula 09 FireDAC\FrmPrincipal.dfm</Transaction>
+    <Transaction>2016/09/28 21:37:26.000.385,C:\Users\DIAYNE\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Aulas SIS 04\LPL2\Aula 09 FireDAC\ProjetoFireDAC.dproj</Transaction>
+    <Transaction>2016/09/28 22:16:58.000.170,=D:\Aulas SIS 04\LPL2\Aula 09 FireDAC\Unit2.pas</Transaction>
+    <Transaction>2016/09/28 22:17:59.000.775,D:\Aulas SIS 04\LPL2\Aula 09 FireDAC\Unit2.pas=D:\Aulas SIS 04\LPL2\Aula 09 FireDAC\FrmMultasVeiculos.pas</Transaction>
+    <Transaction>2016/09/28 22:17:59.000.775,D:\Aulas SIS 04\LPL2\Aula 09 FireDAC\Unit2.dfm=D:\Aulas SIS 04\LPL2\Aula 09 FireDAC\FrmMultasVeiculos.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
